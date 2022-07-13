@@ -1,5 +1,4 @@
-# Hi
-<li>Ethereum</li>
+# ChrisG.eth
 <li>Dapp Development</li>
 
 <!---
