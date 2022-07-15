@@ -1,4 +1,4 @@
-# christianGobin.eth
+# Christian G.
 I work on dapps for the Ethereum blockchain. 
 Definitely a fan of cryptography, cryptocurrency, and game theory.
 Not a fan of "big government" or our current "free market" economy. 
