@@ -3,7 +3,7 @@ I work on dapps for the Ethereum blockchain.
 Definitely a fan of cryptography, cryptocurrency, and game theory.
 Not a fan of "big government" or our current "free market" economy. 
 <li>Dapp Development</li>
-<li>My first attempt at a eth project - "Titanium Armoire Capital" aka tac.eth</li>
+<li>First Eth Project, token minting and yield farming for staked tokens.- "Titanium Armoire Capital" aka tac.eth</li>
 <li>Smart Contract Development using</li>
 <li>User Interfaces built in Reactjs</li>
 
