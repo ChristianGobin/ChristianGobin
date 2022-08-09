@@ -1,5 +1,5 @@
 # Christian G.
-Working towards my AWS Security Specialty Certification
+Python Dev, and Crypto Enthusiast. I'm Working towards my AWS Security Specialty Certification
 - AWS Cloud Practicioner - :construction:
 - AWS Developer Associate -
 - AWS Certified Security Specialty -
