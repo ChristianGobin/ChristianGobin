@@ -1,4 +1,5 @@
-# Christian G.I create and launch decentralized applications on the Ethereum blockchain.
+# Christian G.
+I create and launch decentralized applications on the Ethereum blockchain.
 <li>Dapp Development</li>
 <li>First Eth Project, token minting and yield farming for staked tokens.- "Titanium Armoire Capital" aka tac.eth</li>
 <li>Smart Contract Development using</li>
