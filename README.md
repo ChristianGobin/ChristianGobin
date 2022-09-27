@@ -1,7 +1,6 @@
 # Christian G.
-<li>React.js</li>
-<li>Solidity ^0.4.0</li>
-<li>Python3</li>
+<li>Solidity</li>
+<li>Python</li>
 <li>JavaScript</li>
 
 ### AWS Cloud Cert Roadmap
