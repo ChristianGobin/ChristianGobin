@@ -1,10 +1,6 @@
-# Christian G.
-<li>Solidity</li>
-<li>Python</li>
-<li>JavaScript</li>
-
-### AWS Cloud Cert Roadmap
-<li>AWS Certified Cloud Practicioner :construction: </li>
+# CG
+- Python
+- JavaScript
 
 <!---
 ChristianGobin/ChristianGobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
