@@ -1,12 +1,12 @@
 # CG
-- Python
-- Bash
-- I wear many hats.
-- I write hacky code that works, then I refactor later.
+## My Techsperiences
+- Scripting - Python, Bash
+- Classic Web Stack - Html, Css, Js, Php.
+- Blockchain - Solidity, Truffle Suite.
+- Workflow - I write hacky code that works, then I refactor.
 
-### Side Projects
+### Side Quests
 - Obtain the Comptia Security+ Certification in 2 weeks or less.
-- Continue 
 
 <!---
 ChristianGobin/ChristianGobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
