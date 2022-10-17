@@ -3,7 +3,6 @@
 - Scripting - Python, Bash
 - Classic Web Stack - Html, Css, Js, Php.
 - Blockchain - Solidity, Truffle Suite.
-- Workflow - I write hacky code that works, then I refactor.
 
 ### Side Quests
 - Obtain the Comptia Security+ Certification in 2 weeks or less.
