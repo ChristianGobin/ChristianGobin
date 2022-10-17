@@ -1,7 +1,6 @@
 # CG
-## Technical
+## Blockchain Developer
 - Languages - Python3, JavaScript, Solidity.
-- Frameworks - React
 
 <!---
 ChristianGobin/ChristianGobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
