@@ -1,5 +1,5 @@
 # CG
-## My Techsperiences
+## Technical
 - Scripting - Python, Bash
 - Classic Web Stack - Html, Css, Js, Php.
 - Blockchain - Solidity, Truffle Suite.
