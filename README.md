@@ -1,7 +1,6 @@
-# CG
-## Blockchain Developer
+# I am a Byzantine General in a Blockchain Dev's Body...
 - Languages - Python3, JavaScript, Solidity.
-- Tools - Web3.js, Truffle Suite, Jupyter Notebook, React.
+- Tools - Web3.js, Truffle Suite, Hardhat, Jupyter Notebook, React, Screwdriver, Wrench, Spoon.
 
 <!---
 ChristianGobin/ChristianGobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
