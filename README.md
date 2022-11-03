@@ -1,4 +1,4 @@
-# I am a Byzantine General in a Blockchain Dev's Body...
+# Blockchain
 - Languages - Python3, JavaScript, Solidity.
 - Tools - Web3.js, Truffle Suite, Hardhat, Jupyter Notebook, React, Screwdriver, Wrench, Spoon.
 
