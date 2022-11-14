@@ -1,6 +1,6 @@
-# Python Developer
+# Fullstack JavaScript Developer
 - Languages - Python3, JavaScript, Solidity.
-- Tools - .
+- Tools - React, Liquid WHM, Wordpress, NPM.
 
 <!---
 ChristianGobin/ChristianGobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
