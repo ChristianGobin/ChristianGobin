@@ -1,4 +1,4 @@
-# Fullstack JavaScript Developer
+# Fullstack Developer
 - Languages - Python3, JavaScript, Solidity.
 - Tools - React, Liquid WHM, Wordpress, NPM.
 
