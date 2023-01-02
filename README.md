@@ -1,4 +1,4 @@
-# Front End - Blockchain - Cyber Sec.
+# FrontEnd - Blockchain - Cyber Sec.
 - Languages - Python3, JavaScript, Solidity, Bash.
 - Tools - Jupyter Notebook, Hardhat, Truffle Suite, React, Liquid WHM, Wordpress, NPM, Metasploit.
 - Libraries - Matplotlib, Jquery, Solc.js
