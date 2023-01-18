@@ -1,7 +1,6 @@
-# Embedded Systems.c - Blockchain.sol
-- Languages - C, Solidity, Python3, JavaScript.
-- Tools - Terminal. - Jupyter Notebook, Hardhat, Truffle Suite, Vue, Liquid WHM, Wordpress, NPM, Metasploit.
-- Libraries - Matplotlib, Jquery, Solc.js
+# Blockchain
+- Languages - Solidity, Python3, JavaScript.
+- Tools - Terminal. - Jupyter Notebook, Hardhat, Truffle Suite, React, Liquid WHM, Wordpress, NPM.
 
 <!---
 ChristianGobin/ChristianGobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
