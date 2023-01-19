@@ -1,5 +1,5 @@
-# Blockchain
-- Languages - Solidity, Python3, JavaScript.
+# C/C++ - FrontEnd - Blockchain
+- Languages - Solidity, Python3, JavaScript, C, C++.
 - Tools - Terminal. - Jupyter Notebook, Hardhat, Truffle Suite, React, Liquid WHM, Wordpress, NPM.
 
 <!---
