@@ -1,6 +1,6 @@
 # 
-- Languages - Solidity, Python3, JavaScript, C, C++.
-- Tools - Terminal. - Jupyter Notebook, Hardhat, Truffle Suite, React, Liquid WHM, Wordpress, NPM.
+- Languages - Python, JavaScript, C.
+- Tools - Jupyter Notebook, React+Redux/Vue/Svelte, NPM, Liquid WHM, Wordpress.
 
 <!---
 ChristianGobin/ChristianGobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
