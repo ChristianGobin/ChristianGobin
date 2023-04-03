@@ -1,5 +1,5 @@
 # 
-- Languages - Python, JavaScript, C.
+- Languages - Solidity ^0.4.0, Python, JavaScript.
 - Tools - Jupyter Notebook, React+Redux/Vue/Svelte, NPM, Liquid WHM, Wordpress.
 
 <!---
