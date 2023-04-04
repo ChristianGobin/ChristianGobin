@@ -1,6 +1,6 @@
-# 
-- Languages - Solidity ^0.4.0, Python, JavaScript.
-- Tools - Jupyter Notebook, React+Redux/Vue/Svelte, NPM, Liquid WHM, Wordpress.
+# Blockchain and Web3 Dev
+- Languages - Solidity ^0.8.0, Python, JavaScript.
+- Tools - Hardhat, npm, Jupyter Notebook, React+Redux/Vue , NPM, Liquid WHM, Wordpress.
 
 <!---
 ChristianGobin/ChristianGobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
