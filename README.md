@@ -1,4 +1,4 @@
-# Blockchain Development
+# Blockchain
 - Languages - Solidity ^0.8.0, Python, JavaScript.
 - Tools - Hardhat, npm, Jupyter Notebook, React+Redux/Vue , NPM, Liquid WHM, Wordpress.
 
