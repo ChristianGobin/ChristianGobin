@@ -1,4 +1,4 @@
-# Front-End & Blockchain
+# Developer.
 - Frameworks: Reactjs, Nextjs, Hardhat
 - Languages - Solidity ^0.8.0, Python, JavaScript
 
