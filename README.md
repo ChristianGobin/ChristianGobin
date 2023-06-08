@@ -1,6 +1,7 @@
 # 
 - Frameworks: Reactjs, Nextjs, Hardhat
 - Languages - Solidity ^0.8.0, Python, JavaScript, Swift
+- I back Apple Silicon.
 
 <!---
 ChristianGobin/ChristianGobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
