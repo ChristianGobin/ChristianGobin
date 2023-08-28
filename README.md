@@ -1,6 +1,8 @@
 # Getting back to basics.
 
-- Ruby
+- Ruby on Rails
+- React
+- Node
 
 <!---
 ChristianGobin/ChristianGobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
