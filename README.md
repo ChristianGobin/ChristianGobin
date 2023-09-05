@@ -1,6 +1,5 @@
 # Getting back to basics.
 
-- Ruby on Rails
 - React
 - Node
 
