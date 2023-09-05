@@ -1,5 +1,6 @@
 # Getting back to basics.
 
+- JavaScript
 - React
 - Node
 
