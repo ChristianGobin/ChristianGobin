@@ -1,4 +1,7 @@
-# Embedded Developer
+# Front End <-> Embedded Developer
+- JavaScript
+- React
+- Vite
 - C
 - C++
 
