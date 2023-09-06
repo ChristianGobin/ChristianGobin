@@ -1,7 +1,6 @@
-# Front End && Embedded
-- JavaScript
-- React
-- Vite
+# Web && Embedded
+- Any JavaScript Framework besides Angular
+- Wordpress
 - C
 - C++
 
