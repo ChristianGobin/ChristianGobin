@@ -1,5 +1,6 @@
 # Web && Embedded
 - Any JavaScript Framework besides Angular
+- Ruby on Rails
 - Wordpress
 - C
 - C++
