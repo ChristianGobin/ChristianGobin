@@ -1,4 +1,6 @@
-# Getting back embedded C
+# Embedded Developer
+- C
+- C++
 
 
 <!---
