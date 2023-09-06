@@ -1,8 +1,5 @@
-# Getting back to basics.
+# Getting back embedded C
 
-- JavaScript
-- React
-- Node
 
 <!---
 ChristianGobin/ChristianGobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
