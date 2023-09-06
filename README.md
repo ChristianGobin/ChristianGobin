@@ -1,4 +1,4 @@
-# Front End <-> Embedded Developer
+# Front End && Embedded
 - JavaScript
 - React
 - Vite
