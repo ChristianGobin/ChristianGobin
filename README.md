@@ -1,6 +1,7 @@
 # Web && Embedded
 - Wordpress
 - PHP, JS, HTML, CSS
+- Python
 - C
 - C++
 
