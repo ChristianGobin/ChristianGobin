@@ -1,6 +1,5 @@
 # Web && Embedded
 - Wordpress
-- Ruby on Rails!
 - PHP, JS, HTML, CSS
 - C
 - C++
