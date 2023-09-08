@@ -1,9 +1,8 @@
 # Web && Embedded
+- C
 - React || Vue*
 - RoR
 - PHP, Ruby, JS, HTML, CSS
-
-- C
 - Python
 
 
