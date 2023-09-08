@@ -1,9 +1,10 @@
 # Web && Embedded
-- Wordpress
+- React || Vue*
+- RoR
 - PHP, Ruby, JS, HTML, CSS
-- Python
+
 - C
-- C++
+- Python
 
 
 <!---
