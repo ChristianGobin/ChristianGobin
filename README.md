@@ -1,5 +1,6 @@
 # Web && Embedded
 - Vue
+- Ruby
 - C
 - PHP, JS, HTML, CSS
 - Python
