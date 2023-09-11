@@ -1,7 +1,5 @@
 # Web && Embedded
-- UIKit + SwiftUI
 - Vue
-- Ruby
 - C
 - PHP, JS, HTML, CSS
 - Python
