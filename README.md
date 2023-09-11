@@ -1,6 +1,5 @@
 # Web && Embedded
-- Vue
-- C
+- C, Go
 - PHP, JS, HTML, CSS
 - Python
 
