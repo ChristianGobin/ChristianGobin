@@ -1,4 +1,4 @@
-# Web && Embedded
+# Embedded - Web - CyberSec
 - C, Go
 - PHP, JS, HTML, CSS
 - Python
