@@ -1,4 +1,4 @@
-# Embedded - Web - AI/ML???
+# 101010101
 - C, Python
 - JS, HTML, CSS
 
