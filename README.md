@@ -1,5 +1,6 @@
 ## Blockchain Development & Front End
 
 - Eth Block ⛓️
-- JS, TS
+- Python
+- JavaScript, TypeScript
 - Foundry, React, Vue, Tailwind, Bootstrap
